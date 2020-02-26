@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DatingApp.API.Controllers
 {
+    //This is the method how it it working the routing
+    //http:localhost:5000/api/values
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase

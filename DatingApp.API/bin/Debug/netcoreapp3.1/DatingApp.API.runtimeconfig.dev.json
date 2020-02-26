@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\conahe3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\conahe3\\.nuget\\packages"
+    ]
+  }
+}

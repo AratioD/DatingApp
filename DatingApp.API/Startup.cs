@@ -29,6 +29,7 @@ namespace DatingApp.API
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        //middleware this is
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -36,6 +37,8 @@ namespace DatingApp.API
                 app.UseDeveloperExceptionPage();
             }
 
+
+            // at the moment we don't need this one
             // app.UseHttpsRedirection();
 
             app.UseRouting();

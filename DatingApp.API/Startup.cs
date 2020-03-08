@@ -53,8 +53,8 @@ namespace DatingApp.API
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
-                //endpoints.MapFallbackToAreaController("Index", "Fallback");
+               endpoints.MapControllers();
+               // endpoints.MapFallbackToAreaController("Index", "Fallback");
             });
         }
     }

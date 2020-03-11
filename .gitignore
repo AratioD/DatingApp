@@ -1,1 +1,5 @@
-../.vscode/
+.vscode/
+..DatingApp/datingapp-spa/.vscode/
+..DatingApp/datingapp-spa/node_modules
+..DatingApp/datingapp-spa/bin
+

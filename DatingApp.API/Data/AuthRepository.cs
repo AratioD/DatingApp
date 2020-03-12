@@ -4,10 +4,12 @@ using DatingApp.API.Models;
 namespace DatingApp.API.Data
 {
     public class AuthRepository : IAuthRepository
-    {
-        public AuthRepository(Parameters)
+    { 
+        private readonly DataContext _context;
+        
+        public AuthRepository(DataContext context)
         {
-            
+            _context = context;
         }
         public Task<Users> Login(string username, string password)
         {

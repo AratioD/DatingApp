@@ -21,23 +21,22 @@ namespace DatingApp.API.Controllers
 
         public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto)
         {
+            // validate request
 
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 
-
             if (await _repo.UserExists(userForRegisterDto.Username))
-                return BadRequest("Please note username already exists");
+                return BadRequest("please see your username exists ");
 
             var userToCreate = new User
             {
-                username = userForRegisterDto.Username
+                Username = userForRegisterDto.Username
             };
 
 
-            var createdUser = await _repo.Register(userToCreate, userForRegisterDto.Password);
-
+            var createdUser = await _repo.Register(userToCreate, userForRegisterDto.Username);
             return StatusCode(201);
-        }
 
+        }
     }
 }

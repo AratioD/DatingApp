@@ -10,7 +10,7 @@ frontend development angular -->DatingApp-SPA
 frontend start ng serve
 backend dotnet watch run
 
-Create and update your databse
+Create and update your database
 --> dotnet ef database update
 
 

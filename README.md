@@ -13,5 +13,5 @@ backend dotnet watch run
 Create and update your database
 --> dotnet ef database update
 
-
+debuggin --> http://localhost:5000/api/auth/register
 

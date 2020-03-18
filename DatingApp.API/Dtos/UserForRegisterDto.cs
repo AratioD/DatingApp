@@ -12,7 +12,7 @@ namespace DatingApp.API.Dtos
         // this field is mandatory, and needed password length is minimun 10 chars.
         // field is required
         [Required]
-        [StringLength(30, MinimumLength = 10, ErrorMessage = "You'll have to have more chars than 10 in the password")]
+        [StringLength(30, MinimumLength = 8, ErrorMessage = "You'll have to have more chars than 10 in the password")]
         public string Password { get; set; }
     }
 }

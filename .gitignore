@@ -1,6 +1,6 @@
 .vscode/
-..DatingApp/datingapp-spa/.vscode/
-..DatingApp/datingapp-spa/node_modules
-..DatingApp/datingapp-spa/bin
-..DatingApp/obj/Debug
+..DatingApp/DatingApp-SPA/.vscode/
+..DatingApp/DatingApp-SPA/node_modules
+..DatingApp/DatingApp-SPApa/bin
+..DatingApp/DatingApp.API/obj/Debug
 

@@ -55,3 +55,8 @@ C:\Users\conahe3\dropbox\yamk\codebase\DatingApp\DatingApp.API\bin\Debug\netcore
 C:\Users\conahe3\dropbox\yamk\codebase\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\conahe3\dropbox\yamk\codebase\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\conahe3\dropbox\yamk\codebase\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
+C:\Users\conahe3\Dropbox\YAMK\codebase\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conahe3\Dropbox\YAMK\codebase\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\conahe3\Dropbox\YAMK\codebase\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conahe3\Dropbox\YAMK\codebase\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\conahe3\Dropbox\YAMK\codebase\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

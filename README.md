@@ -20,3 +20,7 @@ debugging postman POST --> http://localhost:5000/api/auth/register
 	"password": "yourpassword"
 }
 
+after that
+http://localhost:5000/api/auth/login
+
+

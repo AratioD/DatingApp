@@ -3,4 +3,4 @@
 ..DatingApp/DatingApp-SPA/node_modules
 ..DatingApp/DatingApp-SPApa/bin
 ..DatingApp/DatingApp.API/obj/Debug
-
+DatingApp.API/appsettings.json

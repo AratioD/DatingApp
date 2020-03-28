@@ -1,10 +1,10 @@
 # DatingApp
 
-# A demo application of MVC ASP.NET  3.1 technology
+# A demo application of MVC ASP.NET CORE 3.1 technology
 # Front-End Angular 8
 # SQLlite database 
 
-# Create a datingapp.db database in the project folder, if you wish to use database
+Please create a SQLlite datingapp.db database in the back-end project folder, if you wish to use database
 
 backend development -->DatingApp.API
 frontend development angular -->DatingApp-SPA
@@ -13,6 +13,7 @@ frontend start ng serve
 backend dotnet watch run
 
 Create and update your database
+--> instructions https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=visual-studio
 --> dotnet ef database update
 
 Frontend http://localhost:4200
